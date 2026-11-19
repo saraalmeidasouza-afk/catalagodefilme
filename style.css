@@ -32,8 +32,11 @@ background-color: rgb(224, 222, 225);
    max-width: 100%;
    display: block;
    object-fit: contain;
+}
+titulo-filme-1{
+font-size: 64px;
+line-height: 158px;
+-webkit-text-stroke-color: rgb(255, 255, 255)
+-werbit-text
 
-
-
-
-   }
+}
