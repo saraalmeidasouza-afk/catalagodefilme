@@ -8,4 +8,21 @@ background-color: rgb(4, 1, 6);
  justify-content: space-around; 
   align-items: center;
   border: 2px solid green;
- }
+
+
+
+   }
+
+   .cabeçario-titulo {
+        color: black;
+        font-size: 100px;
+        font-family: "Irish groverr" ;
+        background-color: rgba(229, 246, 229, 0.8);
+        border: 2px solid rgb(20, 55, 20);
+        padding: 20px;
+        padding-top: 10px;
+        border-radius: 5px;
+
+
+   }
+
